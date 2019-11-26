@@ -1,3 +1,3 @@
-const var1 = require('lib/sub1');
+const sum = require('./lib/sumar.js');
 
-console.log(var1.sum(1,2));
+console.log(sum(1,2));
