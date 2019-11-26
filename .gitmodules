@@ -1,0 +1,3 @@
+[submodule "lib/sub1"]
+	path = lib/sub1
+	url = https://github.com/sumifune/sub1
